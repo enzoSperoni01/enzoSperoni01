@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @enzoSperoni01
-- 👀 I am interested in becoming a Python Developer (Machine Learning, Data Science and Backend)
+- 👀 I am interested in becoming a Web Developer
 - 🌱 I’m currently learning Python 🐍
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
