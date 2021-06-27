@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @enzoSperoni01
 - 👀 I am interested in becoming a Web Developer
-- 🌱 I’m currently learning Python 🐍
+- 🌱 I’m currently learning Front-End
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
