@@ -7,7 +7,7 @@
 </p>
 
 
-## :man_technologist: **Web Developer**, in process of **Full Stack JavaScript Developer** 
-## :man_student: Student at two Technology schools: **Coderhouse** and **Platzi**
-## :chart: **Blockchain Enthusiast**, I love the world of ***cryptocurrencies***
-## :seedling: I love to **learn** about this trade every day
+### :man_technologist: **Web Developer**, in process of **Full Stack JavaScript Developer** 
+### :man_student: Student at two Technology schools: **Coderhouse** and **Platzi**
+### :chart: **Blockchain Enthusiast**, I love the world of ***cryptocurrencies***
+### :seedling: I love to **learn** about this trade every day
