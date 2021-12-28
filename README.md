@@ -6,6 +6,7 @@
   <img src="./assets/bannerGitHub.png" width="100%" title="Intro Banner" alt="Intro Banner">
 </p>
 
+![Snake animation](https://github.com/enzoSperoni01/enzoSperoni01/blob/output/github-contribution-grid-snake.svg)
 
 ### :man_technologist: Web Developer, in process of *Full Stack JavaScript Developer* 
 ### :man_student: Student at two Technology schools: *Coderhouse* and *Platzi*
