@@ -1,7 +1,5 @@
 <h1 align="center">Hey! What´s up coders?</h1>
 
----
-
 <p align="center">
   <img src="./assets/bannerGitHub.png" width="100%" title="Intro Banner" alt="Intro Banner">
 </p>
